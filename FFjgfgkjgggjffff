@@ -169,6 +169,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 ,Deepto TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171125150642" group-title="All", COLORS BANGLA
+http://manastv.xyz/m3u8.php?c=Colors_Bengali_HD&q=800&e=junk.m3u8
 #EXTINF:-1, STAR JALSHA HD
 #http://103.205.133.19/hls/chsj.m3u8
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
